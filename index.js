@@ -1,5 +1,6 @@
 console.log("Hello World")
 console.info("Hello Vidhi")
+console.log("The Program adds 1, 2 and 54")
 
 function addThreeNumbers(a,b,c) {
     return a + b + c;
